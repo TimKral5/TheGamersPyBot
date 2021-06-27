@@ -185,4 +185,4 @@ async def on_message(message):
         return
 
 
-client.run("ODMwNDA1OTM0Mzk2MDgwMTI4.YHGNyg.wtsbdCyHcQahkawXVnV9mp5wa8A")
+client.run("BotToken")
